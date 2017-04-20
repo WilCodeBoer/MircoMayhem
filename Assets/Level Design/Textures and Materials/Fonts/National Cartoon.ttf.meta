@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c40b9a7b8253774abe6f5ebb34813b8
+timeCreated: 1492075565
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: National Cartoon
+  fontNames:
+  - National Cartoon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
